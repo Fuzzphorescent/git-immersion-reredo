@@ -1,5 +1,5 @@
-name = ARGV.first || "World"
-puts "Hell, #{name}!# Default is "World"
+# Default is "World"
+# Author: Fuzzy (@fuzzphorescence@gmail.com)
 name = ARGV.first || "World"
 puts "Hell, #{name}!"
 
